@@ -14,7 +14,7 @@
   
 Использование Google BigQuery
 
-Для выполнения запросов к данным и извлечения фасетов из массива, предлагается использовать Google BigQuery console.cloud.google.com/bigquery?ws=!1m4!1m3!3m2!1slong-carving-385411!2sflight_delay.
+Для выполнения запросов к данным и извлечения фасетов из массива, предлагается использовать Google BigQuery console.cloud.google.com/bigquery?ws=!1m4!1m3!3m2!1slong-carving-385411!2sflight_delay
 Анализ данных
 
 Внутри проекта содержится скрипт на языке Python, который выполняет анализ данных, используя библиотеки pandas и matplotlib. В процессе анализа выполнены следующие задачи:
