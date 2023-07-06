@@ -42,4 +42,4 @@ shell
 Copy code
 pip install -r requirements.txt
 
-Замените project.dataset.table в SQL-запросах на реальные идентификаторы проекта, датасета и таблицы в Google BigQuery.
+Замените project.dataset.table в SQL-запросах на long-carving-385411.flight_delay.flights.
